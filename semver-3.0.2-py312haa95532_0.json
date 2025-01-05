@@ -1,0 +1,58 @@
+{
+  "build": "py312haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.12,<3.13.0a0"
+  ],
+  "extracted_package_dir": "E:\\SOFTWARE\\ANACONDA\\pkgs\\semver-3.0.2-py312haa95532_0",
+  "files": [
+    "Lib/site-packages/semver-3.0.2.dist-info/INSTALLER",
+    "Lib/site-packages/semver-3.0.2.dist-info/LICENSE.txt",
+    "Lib/site-packages/semver-3.0.2.dist-info/METADATA",
+    "Lib/site-packages/semver-3.0.2.dist-info/RECORD",
+    "Lib/site-packages/semver-3.0.2.dist-info/REQUESTED",
+    "Lib/site-packages/semver-3.0.2.dist-info/WHEEL",
+    "Lib/site-packages/semver-3.0.2.dist-info/direct_url.json",
+    "Lib/site-packages/semver-3.0.2.dist-info/entry_points.txt",
+    "Lib/site-packages/semver-3.0.2.dist-info/top_level.txt",
+    "Lib/site-packages/semver/__about__.py",
+    "Lib/site-packages/semver/__init__.py",
+    "Lib/site-packages/semver/__main__.py",
+    "Lib/site-packages/semver/__pycache__/__about__.cpython-312.pyc",
+    "Lib/site-packages/semver/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/semver/__pycache__/__main__.cpython-312.pyc",
+    "Lib/site-packages/semver/__pycache__/_deprecated.cpython-312.pyc",
+    "Lib/site-packages/semver/__pycache__/_types.cpython-312.pyc",
+    "Lib/site-packages/semver/__pycache__/cli.cpython-312.pyc",
+    "Lib/site-packages/semver/__pycache__/version.cpython-312.pyc",
+    "Lib/site-packages/semver/_deprecated.py",
+    "Lib/site-packages/semver/_types.py",
+    "Lib/site-packages/semver/cli.py",
+    "Lib/site-packages/semver/py.typed",
+    "Lib/site-packages/semver/version.py",
+    "Scripts/pysemver.exe",
+    ".nonadmin"
+  ],
+  "fn": "semver-3.0.2-py312haa95532_0.conda",
+  "license": "BSD-3-Clause",
+  "link": {
+    "source": "E:\\SOFTWARE\\ANACONDA\\pkgs\\semver-3.0.2-py312haa95532_0",
+    "type": 1
+  },
+  "md5": "b15b0740fd961af3feeb2828da5cfc9d",
+  "name": "semver",
+  "package_tarball_full_path": "E:\\SOFTWARE\\ANACONDA\\pkgs\\semver-3.0.2-py312haa95532_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/win-64::semver==3.0.2=py312haa95532_0[md5=b15b0740fd961af3feeb2828da5cfc9d]",
+  "sha256": "8197cc7b48fb852f59ae2b161d98e792988ebacb42d56000a463ccf7b8202ad0",
+  "size": 101929,
+  "subdir": "win-64",
+  "timestamp": 1709243771000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/semver-3.0.2-py312haa95532_0.conda",
+  "version": "3.0.2"
+}
